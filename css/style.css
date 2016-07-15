@@ -51,6 +51,9 @@
 }
 /* -- Demo style ------------------------------- */
 html,
+head {
+    color: "Black";
+}
 body {
   position: relative;
   min-height: 100%;
